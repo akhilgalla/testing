@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+}
+h2{
+    color: darkgreen;
+}
+h3{
+    color:indianred;
+}
+#logo{
+     
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+div{
+    background-color: rgb(68, 152, 167);
+}
